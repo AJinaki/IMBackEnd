@@ -1,0 +1,8 @@
+org\kaban\SystemInformation\ImsParameter.class
+org\kaban\SystemInformation\ImsSystemEntity.class
+org\kaban\link\UserDTO.class
+org\kaban\SystemElement\ElementDTO.class
+org\kaban\link\UpdateUtils.class
+org\kaban\SystemInformation\ImsServiceElement.class
+org\kaban\link\Result.class
+org\kaban\link\SysParams.class
